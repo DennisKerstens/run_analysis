@@ -9,7 +9,9 @@ The column fields are as following:
 
   person_number  :  this gives the identity of the person which participated in the test
   activity_name  :  this gives the certain activity the person performed
+  
   The remainder of the fields are very good explained by the field name itselves.
+  
   meantBodyAcc-mean()-X 
   meantBodyAcc-mean()-Y
   meantBodyAcc-mean()-Z
